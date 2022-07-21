@@ -1,5 +1,0 @@
-Blue: #3993FF
-BG: #111111
-Text colour on dark: #e4e4e4
-
-Up to Line:  2502
