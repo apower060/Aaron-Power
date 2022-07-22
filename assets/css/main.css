@@ -305,7 +305,7 @@ input, select, textarea {
 	}
 
 	blockquote {
-		border-left-color: #e4e4e4;
+		border-left-color: #3993FF;
 	}
 
 	code {
@@ -2051,7 +2051,7 @@ input, select, textarea {
 		}
 
 	.box {
-		border-color: #eeeeee;
+		border-color: #3993FF;
 	}
 
 /* Button */
@@ -3217,7 +3217,7 @@ input, select, textarea {
 		}
 
 		#intro blockquote {
-			border-left-color: #ffffff;
+			border-left-color: #3993FF;
 		}
 
 		#intro code {
@@ -3431,7 +3431,7 @@ input, select, textarea {
 		}
 
 		#header blockquote {
-			border-left-color: #ffffff;
+			border-left-color: #3993FF;
 		}
 
 		#header code {
@@ -3461,11 +3461,13 @@ input, select, textarea {
 			text-transform: uppercase;
 			visibility: visible;
 			border-radius: 3rem;
+			background-color: #111111;
 		}
 
 			#header .logo:hover {
 				border-color: #3993FF !important;
 				color: #3993FF !important;
+				background-color: #111111;
 			}
 
 		@media screen and (max-width: 980px) {
@@ -3553,7 +3555,7 @@ input, select, textarea {
 		}
 
 		#nav blockquote {
-			border-left-color: #ffffff;
+			border-left-color: #3993FF;
 		}
 
 		#nav code {
@@ -3873,7 +3875,7 @@ input, select, textarea {
 		}
 
 		#footer blockquote {
-			border-left-color: #e2e2e2;
+			border-left-color: #3993FF;
 		}
 
 		#footer code {
@@ -4311,7 +4313,7 @@ input, select, textarea {
 		}
 
 		#copyright blockquote {
-			border-left-color: #ffffff;
+			border-left-color: #3993FF;
 		}
 
 		#copyright code {

@@ -64,10 +64,11 @@
 								<article>
 									<header>
 										
-										<h2><a href="#">About Me</a></h2>
+										<h2><a href="#">Department of Education,<br />
+										Skills and Employment</a></h2>
 									</header>
 									<a href="#" class="image fit"><img src="images/DESEThumb.svg" alt="DESEThumb" /></a>
-									<p>An introduction to what I currently do for work, what motivates me and what I can do for you.</p>
+									<p>See how I approached a ground-up, responsive web and mobile redesign using extensive user research and ideation to produce a more engaging solution</p>
 									<ul class="actions special">
 										<li><a href="#" class="button">Read More</a></li>
 									</ul>
@@ -75,10 +76,11 @@
 								<article>
 									<header>
 										
-										<h2><a href="#">Background</a></h2>
+										<h2><a href="#">Edgar's<br />
+										Mission</a></h2>
 									</header>
 									<a href="#" class="image fit"><img src="images/EMThumb.svg" alt="EMThumb" /></a>
-									<p>Read about my education, experience and the history which brought me here.</p>
+									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
 									<ul class="actions special">
 										<li><a href="#" class="button">Read More</a></li>
 									</ul>
@@ -86,12 +88,13 @@
 								<article>
 									<header>
 										
-										<h2><a href="#">Skills</a></h2>
+										<h2><a href="#">AR<br />
+										Studio</a></h2>
 									</header>
 									<a href="#" class="image fit"><img src="images/ARStudiothumb.svg" alt="" /></a>
-									<p>I have a very particular set of skills, skills that I have aquired over a unique and varied journey... Skills that will make me an asset to your organisation. Read more below.</p>
+									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
 									<ul class="actions special">
-										<li><a href="#" class="button">Read More</a></li>
+										<li><a href="#" class="button">Full Story</a></li>
 									</ul>
 								</article>
 								<article>
@@ -103,7 +106,7 @@
 									<a href="#" class="image fit"><img src="images/AussieLivery3.png" alt="" /></a>
 									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
 									<ul class="actions special">
-										<li><a href="#" class="button">Read More</a></li>
+										<li><a href="#" class="button">Full Story</a></li>
 									</ul>
 							
 							</section>
