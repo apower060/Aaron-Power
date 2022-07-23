@@ -1,0 +1,5 @@
+<section><img src="images/APSigil2NoBG.png" alt="AP" width="149" height="149"></section>
+<a href="aboutme.html" class="logo">Who Am I?</a>
+Scrolly down arrow from home page - <ul class="actions">
+							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
+						</ul>
